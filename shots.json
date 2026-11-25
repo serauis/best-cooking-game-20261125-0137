@@ -1,0 +1,18 @@
+[
+  {
+    "name": "1-cover.jpg",
+    "query": "?shot=cover&theme=warung&seed=1"
+  },
+  {
+    "name": "2-chop.jpg",
+    "query": "?shot=chop&theme=warung&seed=1"
+  },
+  {
+    "name": "3-stove.jpg",
+    "query": "?shot=stove&theme=warung&seed=1"
+  },
+  {
+    "name": "4-serve.jpg",
+    "query": "?shot=serve&theme=warung&seed=1"
+  }
+]
